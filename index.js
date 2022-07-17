@@ -17,13 +17,15 @@ function saudacao() {
   
   saudacao ();
 
-/*
+
 // Exercício 4
-function multiplica(A, B) {
-    var resultado;
-    resultado = A * B;
-    console.log("O resultado da multiplicação é:" +resultado);
+
+function multiplica(A,B) {
+    return A*B
 }
+    console.log (multiplica(50,4))
+
+
 
 // Exercício 5
 function podeDirigir(idade){
@@ -66,4 +68,3 @@ function converterEmHoras(minutes){
     console.log(minutes/ 60, "Hora(s)")
 }
 converterEmHoras(150)
-*/
